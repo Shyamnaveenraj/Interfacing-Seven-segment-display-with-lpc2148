@@ -1,7 +1,7 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: H.Syed Abdul Wasih
-Roll no: 212221240057
+Name: M.Shyam Naveen Raj
+Roll no: 212221230099
 Date of experiment: 10/11/2022
 
 Ex. No. : 08
