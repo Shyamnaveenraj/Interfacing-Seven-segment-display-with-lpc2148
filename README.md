@@ -1,9 +1,9 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	EASWAR.J
+Name: M.Shyam Naveen Raj
 
 
-Roll no: 212221230024
+Roll no: 212221230099
 
 
 Date of experiment: 10-11-2022
